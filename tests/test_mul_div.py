@@ -1,4 +1,3 @@
-import pytest
 import mul_div
 
 

@@ -1,4 +1,3 @@
-import pytest
 import add_sub
 
 
