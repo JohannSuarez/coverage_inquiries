@@ -1,3 +1,8 @@
+'''
+A dummy module.
+'''
+
+
 def addition(x: float, y: float) -> float:
     '''
     Dummy addition function
